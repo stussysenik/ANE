@@ -1,0 +1,19 @@
+# Compiled binaries
+test_ane
+test_bridge
+test_minimal
+bridge/libane_bridge.dylib
+bridge/test_bridge
+bridge/test_minimal
+training/*.o
+*.dSYM/
+
+# Nim build artifacts
+nimcache/
+bridge/nimcache/
+
+# macOS
+.DS_Store
+
+# Context/session logs
+context.md
