@@ -2,6 +2,9 @@
 
 ---
 
+edit: found it on twitter and this is the obj-c implementation to the Neural Engine
+
+
 # ANE Training — Backpropagation on Apple Neural Engine
 
 Training neural networks directly on Apple's Neural Engine (ANE) via reverse-engineered private APIs. No CoreML training APIs, no Metal, no GPU — pure ANE compute.
